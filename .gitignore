@@ -1,2 +1,9 @@
-*.class
-*.log
+
+# IntelliJ project files
+.idea
+
+gen
+
+target
+
+.DS_Store
